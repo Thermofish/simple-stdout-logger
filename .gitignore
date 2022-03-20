@@ -1,0 +1,26 @@
+# dependency directories
+node_modules/
+bower_components/
+
+# dynamic files
+npm-debug.log
+lerna-debug.log
+*.log
+
+# junk OS files
+*.DS_Store
+[Tt]humbs.db
+
+# always keep these files
+!*.gitkeep
+
+# private files
+*.npmrc
+
+# temp files
+data/temp/*
+!data/temp/.gitkeep
+data/apps/*
+!data/apps/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
