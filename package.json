@@ -1,0 +1,21 @@
+{
+  "name": "simple-stdout-logger",
+  "version": "1.0.0",
+  "description": "A simple console logger",
+  "homepage": "https://github.com/Thermofish/simple-stdout-logger#readme",
+  "bugs": {
+    "url": "https://github.com/Thermofish/simple-stdout-logger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thermofish/simple-stdout-logger.git"
+  },
+  "license": "UNLICENSED",
+  "author": "James T. Wood",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment": "^2.29.1"
+  }
+}
